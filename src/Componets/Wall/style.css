@@ -1,0 +1,31 @@
+.wall-container {
+    background-color: grey;
+    width: 100%;
+    min-height: 100vh;
+
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-wrap: wrap;/*To break into mulyiple row otherwise it gets clustered in one row only*/
+}
+
+.btn-a{
+    position: absolute;
+    bottom: 10px;
+    right: 10px;
+    
+}
+
+.btn{
+    padding: 10px;
+    background-color: black;
+    color: aliceblue;
+    border: none;
+    font-weight: bold;
+}
+
+.btn-r{
+    position: absolute;
+    bottom: 50px;
+    right: 10px;
+}

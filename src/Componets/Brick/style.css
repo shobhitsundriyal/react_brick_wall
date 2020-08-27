@@ -1,0 +1,12 @@
+.brick-container{
+    width: 200px;
+    height: 200px;
+    background-color: teal;
+    margin: 10px;
+    font-size: 40px;
+    font-weight: bold;
+    /*To make things centered all 3*/
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
