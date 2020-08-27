@@ -1,1 +1,1 @@
-Title wall would be more appropriate
+Tile wall would be more appropriate
